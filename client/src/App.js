@@ -1,6 +1,6 @@
-import React, {useState, useEffect} from 'react';
+import React from 'react';
 import './App.css';
-import ChatApp from './components/Chat';
+import ChatApp from './components/ChatApp';
 
 function App() {
   return (
